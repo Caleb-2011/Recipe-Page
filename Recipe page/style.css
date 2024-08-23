@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+*
+{
+    padding: 0;
+    margin: 0;
+}
+body
+{
+    background-color: antiquewhite;
+}
+.container
+{
+    width: 40%;
+    height: 1500px;
+    margin: 30px;
+    background: #fff;
+    border-radius: 15px;
+}
+img
+{
+    width: 90%;
+    height: 200px;
+    margin: 25px;
+    border-radius: 15px;
+}
+h1
+{
+    font-family: "Roboto", system-ui;
+    font-weight: 500;
+    font-style: normal;
+    float: left;
+    padding-left: 30px;
+}
+p
+{
+    position: relative;
+    top: 20px;
+    display: inline-block;
+    line-height: 20px;
+}
+.spn1
+{
+    position: relative;
+    right: 5px;
+}
+.container1
+{
+    width: 90%;
+    height: 175px;
+    border-radius: 15px;
+    background: aliceblue;
+    margin-top: 35px;
+}
+h3
+{
+    position: relative;
+    right: 180px;
+    top: 10px;
+    font-family: "Roboto", system-ui;
+    font-weight: 500;
+    font-style: normal;
+}
+ul
+{
+    list-style-position: inside;
+    padding-top: 20px;
+    font-family: "Roboto", system-ui;
+    font-weight: 500;
+    font-style: normal;
+}
+li
+{
+    line-height: 30px;
+}
+.total
+{
+    float: left;
+    padding-left: 25px;
+}
+.Preparation
+{
+    float: left;
+    padding-left: 200px;
+    position: relative;
+    right: 175px;
+}
+.Cooking
+{
+    float: left;
+    padding-left: 25px;
+}
+h2
+{
+    float: left;
+    position: relative;
+    left: 25px;
+    padding: 20px;
+    color: rgb(114, 8, 8);
+}
+.list1
+{
+    position: relative;
+    right: 275px;
+    top: 35px;
+}
+.list2
+{
+    position: relative;
+    right: 281px;
+    top: 35px;
+}
+.list3
+{
+    position: relative;
+    right: 191px;
+    top: 35px;
+}
+.list4
+{
+    position: relative;
+    right: 147px;
+    top: 35px;
+}
+.list5
+{
+    position: relative;
+    right: 22px;
+    top: 35px;
+}
+hr
+{
+    position: relative;
+    top: 50px;
+    width: 90%;
+}
+.header2
+{
+    position: relative;
+    top: 50px;
+}
+.spn2
+{
+    line-height: 25px;
+    position: relative;
+    top: 30px;
+}
+.spn3
+{
+    line-height: 25px;
+    position: relative;
+    top: 50px;
+    right: 5px;
+}
+.spn4
+{
+    line-height: 25px;
+    position: relative;
+    top: 70px;
+}
+.spn5
+{
+    line-height: 25px;
+    position: relative;
+    top: 90px;
+}
+.spn6
+{
+    line-height: 25px;
+    position: relative;
+    top: 110px;
+    right: 1px;
+}
+.spn7
+{
+    line-height: 25px;
+    position: relative;
+    top: 134px;
+    right: 74px;
+}
+.header3
+{
+    position: relative;
+    top: 180px;
+    color: rgb(114, 8, 8);
+}
+.paragraph2
+{
+    position: relative;
+    top: 175px;
+}
+table
+{
+    border: 1px solid black;
+    width: 90%;
+    margin-top: 205px;
+}
+th, td {
+    border: 1px solid black; /* Add borders to each cell */
+  }
